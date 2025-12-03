@@ -2,21 +2,9 @@
   "spamStates": {
     "120363400140211782@g.us": {
       "isSpamming": true,
-      "spamText": "\nSHARAN-RAHUL-USKE TATTE LUN CHUS 💜 \n\nSHARAN-RAHUL-USKE TATTE LUN CHUS 💜\n\nSHARAN-RAHUL-USKE TATTE LUN CHUS 💜\n\nSHARAN-RAHUL-USKE TATTE LUN CHUS 💜\n\nSHARAN-RAHUL-USKE TATTE LUN CHUS 💜",
+      "spamText": "RAHUL BAUNE TERI MAA AAKHEIN TEDI KAR DUNGA SHARAN KE JAISE 😂\n\nRAHUL BAUNE TERI MAA AAKHEIN TEDI KAR DUNGA SHARAN KE JAISE 😂\n\nRAHUL BAUNE TERI MAA AAKHEIN TEDI KAR DUNGA SHARAN KE JAISE 😂",
       "spamDelayMs": 5000
-    },
-    "120363422007741000@g.us": {
-      "spamDelayMs": 4000,
-      "spamText": ""
     }
   },
-  "ncStates": {
-    "120363400140211782@g.us": {
-      "isRenaming": true,
-      "renameList": [
-        "SHARAN BHENGA 🦆"
-      ],
-      "ncDelayMs": 700
-    }
-  }
+  "ncStates": {}
 }
